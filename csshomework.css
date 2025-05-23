@@ -1,0 +1,29 @@
+
+h1{
+    color: blue;
+    font-size:50px;
+}
+.a{ 
+    color: red;
+
+}
+.a:hover{
+    color:blue;
+}
+h2{
+    font-size: 20px;
+    border-left: 3px solid red;
+    border-bottom: 3px solid red;
+}
+.deleteline{
+    text-decoration: line-through;
+}
+img{
+    border: 3px solid grey; 
+}
+img:hover{
+    border: 3px solid pink;
+}
+
+
+
